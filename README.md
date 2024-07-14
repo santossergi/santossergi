@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Sergi, a video game and application programmer. Due to issues with GitHub, I had to create another account, so everything coming from here comes from my old account [sergisantos65](https://github.com/sergisantos658)
 
 <!--
 **santossergi/santossergi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
